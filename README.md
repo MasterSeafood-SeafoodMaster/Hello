@@ -1,3 +1,3 @@
 # HI~
 
-<img src="docs/image/SeafoodGoodGame.jpg" align="middle" width="500"/>
+<img src="docs/image/Animation.gif" align="middle" width="1000"/>
