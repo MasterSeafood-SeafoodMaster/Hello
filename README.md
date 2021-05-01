@@ -1,3 +1,3 @@
 # HI~
 
-<img src="docs/image/Animation.gif" align="middle" width="1000"/>
+<img src="docs/image/Animation.gif" align="middle" width="800"/>
